@@ -18,9 +18,9 @@ The skeleton code for these problems is at the following link: https://github.co
 
 ### Overview
 
-The goal of this set of practice problems is to help you prepare for CS 514. It is a fast paced class, and incoming students are expected to know the basics of programming such as methods, loops, conditionals, and arrays. If you find yourself struggling with these problems then you should consider completing an online Java course or carefully going through an introductory Java textbook *and* completing the programming exercises.
+The goal of this set of practice problems is to help you prepare for CS 514 over the summer. It is a fast paced class, and incoming students are expected to know the basics of programming such as methods, loops, conditionals, and arrays before starting the class. If you took an intro programming class in another programming language, you should still be able to do these problems after reviewing basic Java syntax. The provided exercises are not meant to demonstrate good object-oriented design; their main purpose is to allow students to practice working with arrays, loops and conditionals. 
 
-Though there may be partial or complete solutions to some of these questions on various sites like StackOverflow, it is expected that you solve these problems *without* using the Internet as a resource. 
+If you find yourself struggling with these problems, please consider completing an online Java course or carefully going through an introductory Java textbook *and* completing the programming exercises. Though there may be partial or complete solutions to some of these questions on various sites like StackOverflow, it is expected that you solve these problems *without* using the Internet as a resource. 
 
 ### Getting Started
 
