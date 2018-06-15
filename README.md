@@ -1,4 +1,3 @@
-# practice
 Practice
 ========
 
