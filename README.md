@@ -13,6 +13,9 @@ In this set of practice problems, you will practice using the following:
 - Strings
 - Github
 
+The skeleton code for these problems is at the following link: https://github.com/USF-CS514-Fall18/practice/tree/master/src/main
+(see instructions below on getting started).
+
 ### Overview
 
 The goal of this set of practice problems is to help you prepare for CS 514.
