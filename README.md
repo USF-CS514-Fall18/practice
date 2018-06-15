@@ -20,8 +20,6 @@ The skeleton code for these problems is at the following link: https://github.co
 
 The goal of this set of practice problems is to help you prepare for CS 514. If you find yourself struggling with these problems then you should consider completing an online Java course or carefully going through an introductory Java textbook *and* completing the programming exercises required.
 
-:warning: **You should be able to complete all of these problems with little to no help from the Internet.**
-
 Though there may be partial or complete solutions to some of these questions on various sites like StackOverflow, it is expected that you solve these problems *without* using the Internet as a resource. 
 
 ### Getting Started
