@@ -18,9 +18,7 @@ The skeleton code for these problems is at the following link: https://github.co
 
 ### Overview
 
-The goal of this set of practice problems is to help you prepare for CS 514.
-
-By the second week of the semester you will need to have mastered all of the concepts covered by these practice problems. This includes the Java syntax, the submission procedure, and the problem solving required for the more complex solutions. If you find yourself struggling with these problems then you should consider completing an online Java course or carefully going through an introductory Java textbook *and* completing the programming exercises required.
+The goal of this set of practice problems is to help you prepare for CS 514. If you find yourself struggling with these problems then you should consider completing an online Java course or carefully going through an introductory Java textbook *and* completing the programming exercises required.
 
 :warning: **You should be able to complete all of these problems with little to no help from the Internet.**
 
