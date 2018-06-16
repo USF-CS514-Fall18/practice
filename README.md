@@ -13,8 +13,7 @@ In this set of practice problems, you will practice using the following:
 - Strings
 - Github
 
-The skeleton code for these problems is at the following link: https://github.com/USF-CS514-Fall18/practice/tree/master/src/main
-(see instructions below on getting started).
+The skeleton code for these problems is at the following link: https://github.com/USF-CS514-Fall18/practice (see Java classes inside src/main). See instructions below on getting started.
 
 ### Overview
 
@@ -24,11 +23,21 @@ If you find yourself struggling with these problems, please consider completing 
 
 ### Getting Started
 
-1. Make sure you have set up your [development environment](https://github.com/USF-CS514-Fall18/devEnvironment.md). You'll need to decide how you want to access github -- using command line tools, IntelliJ, or the Github Desktop tool.
-2. Use the following link to create your private github repository for this assignment. 
-The repository will be seeded with the skeleton code. Clone a copy to your local machine.
-3. Complete all of the methods specified in each class. 
-4. Submit your solution to the private github repo (if you want the intructor to take a look at your solutions).
+In this course we will use the following technologies for developing and submitting programs.
+
+- [IntelliJ](#intelliJ)
+- [Github](#github)
+
+IntelliJ is an Integrated Development Environment (IDE). IDE is a piece of software that makes developing code easier: it contains an editor that provides clever code completion,  a debugger, refactoring tools, and build automation tools.
+
+1. Download [IntelliJ here]https://www.jetbrains.com/idea/download/). Select the Community edition (it's free).
+2. Download [Java 8 here](http://www.oracle.com/technetwork/java/javase/downloads/index.html) You need the JDK (Java SE Development Kit).
+3. Make sure IntelliJ  is configured correctly to use Java 8.
+
+[Github](https://github.com/) is a web-based version control system.  All assignments in cs514 will be posted and submitted using github. 
+Create a github user account if you do not already have one and sign up for the [Student Developer Pack](https://education.github.com/pack).
+
+It is easy to access github from IntelliJ. Here is a video that shows you how to clone a github repository  (create a copy of it on your local machine)  in IntelliJ: https://www.youtube.com/watch?v=DRKrzN0LwUw
 
 ### Practice Questions
 
