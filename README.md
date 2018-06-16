@@ -38,7 +38,7 @@ To complete this practice assignment, complete each class as specified in the co
 
 ### Hints
 
-It is recommended you complete the classes in the order specified above:
+It is recommended you complete the classes in the order specified below:
 
 1. `ConversionHelper`
 2. `MathHelper`
